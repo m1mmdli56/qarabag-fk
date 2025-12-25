@@ -1,0 +1,341 @@
+{
+  "team": "Qarabağ FK",
+  "year": 2025,
+  "coach": {
+    "name": "Gurban Gurbanov",
+    "nationality": "AZE",
+    "origin": "Azərbaycan, Zaqatala",
+    "age": 52,
+    "bio": "Azərbaycan futbolunun ən uğurlu məşqçilərindən biri. 2008-ci ildən Qarabağ FK-nin baş məşqçisidir və klubla çoxsaylı Azərbaycan çempionluğu, eləcə də Avropa kuboklarında tarixi nailiyyətlər qazanıb.",
+    "career_highlights": [
+      "Qarabağ FK ilə çoxqat Azərbaycan çempionu",
+      "UEFA Çempionlar Liqasının qrup mərhələsinə çıxan ilk azərbaycanlı baş məşqçi",
+      "UEFA Avropa Liqasında ardıcıl qrup mərhələləri"
+    ],
+    "statistics_2024_2025": {
+      "matches": 52,
+      "wins": 32,
+      "draws": 12,
+      "losses": 8,
+      "goals_scored": 96,
+      "goals_conceded": 38,
+      "titles": ["Azərbaycan Premyer Liqası çempionu"]
+    }
+  },
+  "players": [
+    {
+      "number": 1,
+      "name": "Shakhrudin Magomedaliyev",
+      "position": "Goalkeeper",
+      "nationality": "AZE",
+      "origin": "Rusiya, Mahaçqala",
+      "age": 30,
+      "height_cm": 187,
+      "weight_kg": 82,
+      "bio": "Qarabağın əsas qapıçısı, refleksləri və sabitliyi ilə tanınır.",
+      "statistics_2024_2025": {
+        "matches": 34,
+        "clean_sheets": 14,
+        "goals_conceded": 32
+      }
+    },
+    {
+      "number": 97,
+      "name": "Fabijan Buntić",
+      "position": "Goalkeeper",
+      "nationality": "CRO",
+      "origin": "Xorvatiya, Zaqreb",
+      "age": 26,
+      "height_cm": 194,
+      "weight_kg": 88,
+      "bio": "Uzunboylu və güclü qapıçı, hava toplarında etibarlıdır.",
+      "statistics_2024_2025": {
+        "matches": 12,
+        "clean_sheets": 5,
+        "goals_conceded": 10
+      }
+    },
+    {
+      "number": 99,
+      "name": "Mateusz Kochalski",
+      "position": "Goalkeeper",
+      "nationality": "POL",
+      "origin": "Polşa, Varşava",
+      "age": 24,
+      "height_cm": 190,
+      "weight_kg": 85,
+      "bio": "Gənc və perspektivli qapıçı.",
+      "statistics_2024_2025": {
+        "matches": 8,
+        "clean_sheets": 3,
+        "goals_conceded": 7
+      }
+    },
+    {
+      "number": 2,
+      "name": "Matheus Silva",
+      "position": "Defender",
+      "nationality": "BRA",
+      "origin": "Braziliya, San-Paulu",
+      "age": 27,
+      "height_cm": 183,
+      "weight_kg": 78,
+      "bio": "Sağ cinah müdafiəçisi, sürətli və hücumameyilli.",
+      "statistics_2024_2025": { "matches": 36, "goals": 2, "assists": 5 }
+    },
+    {
+      "number": 3,
+      "name": "Samy Mmaee",
+      "position": "Defender",
+      "nationality": "MAR",
+      "origin": "Belçika, Brüssel",
+      "age": 28,
+      "height_cm": 185,
+      "weight_kg": 80,
+      "bio": "Mərkəz müdafiəsinin liderlərindən biridir.",
+      "statistics_2024_2025": { "matches": 38, "goals": 3, "yellow_cards": 7 }
+    },
+    {
+      "number": 13,
+      "name": "Bəhlul Mustafazadə",
+      "position": "Defender",
+      "nationality": "AZE",
+      "origin": "Azərbaycan, Bakı",
+      "age": 28,
+      "height_cm": 182,
+      "weight_kg": 76,
+      "bio": "Milli komandanın üzvü, etibarlı müdafiəçi.",
+      "statistics_2024_2025": { "matches": 35, "goals": 1, "assists": 1 }
+    },
+    {
+      "number": 30,
+      "name": "Abbas Hüseynov",
+      "position": "Defender",
+      "nationality": "AZE",
+      "origin": "Azərbaycan, Bakı",
+      "age": 29,
+      "height_cm": 180,
+      "weight_kg": 75,
+      "bio": "Təcrübəli sağ cinah müdafiəçisi.",
+      "statistics_2024_2025": { "matches": 30, "goals": 0, "assists": 3 }
+    },
+    {
+      "number": 44,
+      "name": "Elvin Cəfərquliyev",
+      "position": "Defender",
+      "nationality": "AZE",
+      "origin": "Azərbaycan, Sumqayıt",
+      "age": 24,
+      "height_cm": 178,
+      "weight_kg": 72,
+      "bio": "Sol cinahda aktiv və sürətli oyunçu.",
+      "statistics_2024_2025": { "matches": 33, "goals": 2, "assists": 6 }
+    },
+    {
+      "number": 81,
+      "name": "Kevin Medina",
+      "position": "Defender",
+      "nationality": "COL",
+      "origin": "Kolumbiya, Kali",
+      "age": 25,
+      "height_cm": 188,
+      "weight_kg": 83,
+      "bio": "Fiziki gücü ilə seçilən mərkəz müdafiəçisi.",
+      "statistics_2024_2025": { "matches": 31, "goals": 2, "yellow_cards": 6 }
+    },
+    {
+      "number": 6,
+      "name": "Chris Kouakou",
+      "position": "Midfielder",
+      "nationality": "CIV",
+      "origin": "Fil Dişi Sahili, Abican",
+      "age": 25,
+      "height_cm": 181,
+      "weight_kg": 77,
+      "bio": "Dayaq yarımmüdafiəçisi, fiziki güclüdür.",
+      "statistics_2024_2025": { "matches": 29, "goals": 1, "assists": 2 }
+    },
+    {
+      "number": 8,
+      "name": "Marko Janković",
+      "position": "Midfielder",
+      "nationality": "MNE",
+      "origin": "Monteneqro, Podqoritsa",
+      "age": 29,
+      "height_cm": 176,
+      "weight_kg": 70,
+      "bio": "Oyunun tempini tənzimləyən yarımmüdafiəçi.",
+      "statistics_2024_2025": { "matches": 40, "goals": 4, "assists": 7 }
+    },
+    {
+      "number": 10,
+      "name": "Abdellah Zoubir",
+      "position": "Midfielder",
+      "nationality": "FRA",
+      "origin": "Fransa, Lille",
+      "age": 33,
+      "height_cm": 179,
+      "weight_kg": 74,
+      "bio": "Qarabağın simvol oyunçularından biri.",
+      "statistics_2024_2025": { "matches": 42, "goals": 11, "assists": 9 }
+    },
+    {
+      "number": 15,
+      "name": "Leandro Andrade",
+      "position": "Midfielder",
+      "nationality": "CPV",
+      "origin": "Kabo-Verde, Praia",
+      "age": 25,
+      "height_cm": 175,
+      "weight_kg": 68,
+      "bio": "Texnikalı və sürətli cinah yarımmüdafiəçisi.",
+      "statistics_2024_2025": { "matches": 34, "goals": 6, "assists": 5 }
+    },
+    {
+      "number": 21,
+      "name": "Oleksiy Kashchuk",
+      "position": "Midfielder",
+      "nationality": "UKR",
+      "origin": "Ukrayna, Xarkov",
+      "age": 24,
+      "height_cm": 177,
+      "weight_kg": 71,
+      "bio": "Kreativ hücumameyilli yarımmüdafiəçi.",
+      "statistics_2024_2025": { "matches": 27, "goals": 4, "assists": 4 }
+    },
+    {
+      "number": 9,
+      "name": "Joni Montiel",
+      "position": "Midfielder",
+      "nationality": "ESP",
+      "origin": "İspaniya, Madrid",
+      "age": 26,
+      "height_cm": 173,
+      "weight_kg": 67,
+      "bio": "Texniki və çevik pleymeyker.",
+      "statistics_2024_2025": { "matches": 25, "goals": 3, "assists": 4 }
+    },
+    {
+      "number": 35,
+      "name": "Pedro Bicalho",
+      "position": "Midfielder",
+      "nationality": "BRA",
+      "origin": "Braziliya, São Luís",
+      "age": 23,
+      "height_cm": 181,
+      "weight_kg": 75,
+      "bio": "Gənc və perspektivli mərkəz yarımmüdafiəçisi.",
+      "statistics_2024_2025": { "matches": 22, "goals": 2, "assists": 2 }
+    },
+    {
+      "number": 11,
+      "name": "Emmanuel Addai",
+      "position": "Forward",
+      "nationality": "GHA",
+      "origin": "Qana, Akra",
+      "age": 20,
+      "height_cm": 170,
+      "weight_kg": 65,
+      "bio": "Sürətli və texnikalı gənc hücumçu.",
+      "statistics_2024_2025": { "matches": 24, "goals": 6, "assists": 3 }
+    },
+    {
+      "number": 22,
+      "name": "Musa Qurbanlı",
+      "position": "Forward",
+      "nationality": "AZE",
+      "origin": "Azərbaycan, Bakı",
+      "age": 22,
+      "height_cm": 182,
+      "weight_kg": 78,
+      "bio": "Fiziki güclü mərkəz hücumçusu.",
+      "statistics_2024_2025": { "matches": 28, "goals": 8, "assists": 3 }
+    },
+    {
+      "number": 7,
+      "name": "Nariman Akhundzade",
+      "position": "Forward",
+      "nationality": "AZE",
+      "origin": "Azərbaycan, Bakı",
+      "age": 20,
+      "height_cm": 176,
+      "weight_kg": 69,
+      "bio": "Sürətli və perspektivli cinah hücumçusu.",
+      "statistics_2024_2025": { "matches": 26, "goals": 5, "assists": 4 }
+    },
+    {
+      "number": 17,
+      "name": "Camilo Durán",
+      "position": "Forward",
+      "nationality": "COL",
+      "origin": "Kolumbiya, Medellín",
+      "age": 21,
+      "height_cm": 184,
+      "weight_kg": 79,
+      "bio": "Gənc və güclü hücumçu.",
+      "statistics_2024_2025": { "matches": 20, "goals": 6, "assists": 2 }
+    },
+    {
+      "number": 32,
+      "name": "Hikmət Cəbrayılzadə",
+      "position": "Defender/Midfielder",
+      "nationality": "AZE",
+      "origin": "Azərbaycan, Gəncə",
+      "age": 24,
+      "height_cm": 179,
+      "weight_kg": 73,
+      "bio": "Universal oyunçu, bir neçə mövqedə çıxış edə bilir.",
+      "statistics_2024_2025": { "matches": 21, "goals": 1, "assists": 2 }
+    },
+    {
+      "number": 27,
+      "name": "Toral Bayramov",
+      "position": "Defender/Midfielder",
+      "nationality": "AZE",
+      "origin": "Azərbaycan, Ağdam",
+      "age": 24,
+      "height_cm": 178,
+      "weight_kg": 72,
+      "bio": "Çoxfunksiyalı oyunçu, taktiki intizamlıdır.",
+      "statistics_2024_2025": { "matches": 37, "goals": 3, "assists": 6 }
+    }
+  ],
+  "news": [
+    {
+      "imgSrc": "/images/news-carousel/1.jpg",
+      "newsTitle": "Hər iki komanda 1 xala layiq idi"
+    },
+    {
+      "imgSrc": "/images/news-carousel/2.jpg",
+      "newsTitle": "\"Qarabağ\" dünya reytinqində 68-cidir"
+    },
+    {
+      "imgSrc": "/images/news-carousel/3.png",
+      "newsTitle": "Səfərdə qollu heç-heçə"
+    },
+    {
+      "imgSrc": "/images/news-carousel/4.jpg",
+      "newsTitle": "U-19 son oyununu keçirdi"
+    },
+    {
+      "imgSrc": "/images/news-carousel/5.jpg",
+      "newsTitle": "\"Qarabağ\" – \"Ayaks\" oyununun hakimləri müəyyənləşdi"
+    },
+    {
+      "imgSrc": "/images/news-carousel/6.jpg",
+      "newsTitle": "Mətbuat konfransları və açıq məşqlərin vaxtları müəyyənləşdi"
+    },
+    {
+      "imgSrc": "/images/news-carousel/7.jpg",
+      "newsTitle": "Bakıda 6 qollu oyun"
+    },
+    {
+      "imgSrc": "/images/news-carousel/8.jpg",
+      "newsTitle": "\"Son illər belə dinamik oyun nadir hallarda olurdu\""
+    },
+    {
+      "imgSrc": "/images/news-carousel/9.jpg",
+      "newsTitle": "\"Uğurlu nəticə əldə etməyə çalışacağıq\""
+    }
+  ]
+}
